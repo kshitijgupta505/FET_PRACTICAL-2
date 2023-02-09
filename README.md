@@ -11,3 +11,8 @@ different menus that list songs based on features like genre, year, singer, albu
 Add relevant links and images for the collection of songs available. At the footer, you can
 include contact details, and links for registration, in-store purchases, subscription packages, and
 trial options.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Language We Use:
+JAVA
+CSS
+HTML
